@@ -80,7 +80,7 @@ endmodule
 ```
 
 Logic symbol & Truthtable :
-![output](digital exp 1)
+
 RTL realization
 Output:
 RTL
