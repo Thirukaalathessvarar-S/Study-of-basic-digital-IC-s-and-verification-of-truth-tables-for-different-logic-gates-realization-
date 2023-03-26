@@ -1,21 +1,22 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+
+## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
-Introduction
-Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
-AND gate
-OR gate
-NOT gate
-NAND gate
-NOR gate
-Ex-OR gate
-Ex-NOR gate
+## Theory Introduction:
+Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
+AND gate,
+OR gate,
+NOT gate,
+NAND gate,
+NOR gate,
+Ex-OR gate,
+Ex-NOR gate,
+
 1) AND gate
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
 
@@ -82,13 +83,13 @@ endmodule
 
 Output:
 ## RTL
-![image](![dE output](https://user-images.githubusercontent.com/121166390/227765245-8827963c-4900-4a9a-8c3b-849430c73d1c.png)
+![dE output](https://user-images.githubusercontent.com/121166390/227765245-8827963c-4900-4a9a-8c3b-849430c73d1c.png)
 
 ## Timing Diagram
-![image](![dE timing](https://user-images.githubusercontent.com/121166390/227765266-3a0f2f10-dbe3-4dd4-b78f-c45d9bff30d7.png)
+![dE timing](https://user-images.githubusercontent.com/121166390/227765266-3a0f2f10-dbe3-4dd4-b78f-c45d9bff30d7.png)
 
 ## Truth Table
-![image](![de truth t](https://user-images.githubusercontent.com/121166390/227765289-fdf08c08-18e4-4293-96c8-4d6391bf82c0.png)
+![de truth t](https://user-images.githubusercontent.com/121166390/227765289-fdf08c08-18e4-4293-96c8-4d6391bf82c0.png)
 
 
 ## Result:
